@@ -1,0 +1,7 @@
+Two CLI ray tracers from a blogpost by Lawrence Kesteloot:
+
+https://www.teamten.com/lawrence/projects/shortest_ray_tracer/
+
+brad.c and lawrence.c contain original code from the blogpost,
+while *_ind.c files are indented and slightly modified versions
+to make them not segfault in the 2020 Anno Domini.
